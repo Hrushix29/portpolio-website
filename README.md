@@ -1,2 +1,2 @@
-# portpolio-website
-i have made poortpolio website using html css.
+# Portfolio-website
+I have developed the portfolio website using HTML and CSS.
